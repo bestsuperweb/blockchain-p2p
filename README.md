@@ -1,4 +1,4 @@
-# Blockchain using navichain
+# Blockchain using naviecoin
 practice blockchain using naviecoin
 
 ```
